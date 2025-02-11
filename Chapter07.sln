@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedLibrary", "SharedLibr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetEverywhere", "DotNetEverywhere\DotNetEverywhere.csproj", "{5755EC17-127A-4BC7-A6F6-CE29B63505A6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AotConsole", "AotConsole\AotConsole.csproj", "{8BF3C552-136F-4883-BC73-8AE6813D19C7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{5755EC17-127A-4BC7-A6F6-CE29B63505A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5755EC17-127A-4BC7-A6F6-CE29B63505A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5755EC17-127A-4BC7-A6F6-CE29B63505A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BF3C552-136F-4883-BC73-8AE6813D19C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BF3C552-136F-4883-BC73-8AE6813D19C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BF3C552-136F-4883-BC73-8AE6813D19C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BF3C552-136F-4883-BC73-8AE6813D19C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
